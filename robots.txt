@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hasnainali1142-maker.github.io/Prozentrechner/sitemap.xml
